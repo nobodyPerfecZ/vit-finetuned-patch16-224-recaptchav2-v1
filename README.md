@@ -1,13 +1,3 @@
----
-license: mit
-tags:
-  - computer vision
-  - image classification
-  - recaptchav2
-datasets:
-  - recaptchav2-29k
----
-
 # Finetuned Vision Transformer
 
 This repository contains a Vision Transformer (ViT) model fine-tuned on the ReCAPTCHAv2-29k dataset.
